@@ -16,3 +16,5 @@ Thanks to this campaign, I learnt how to:
 To use this app, you will need Postman to work with APIs, Circle account for digital wallet creation and transactions, and Android Studio with latest Java installed. You can learn to make this by following [this tutorial](https://app.stackup.dev/campaign_page/circle-programmable-wallets).
 
 Happy coding :keyboard::computer:
+
+![Circle PW Android Wallet App homepage](https://github.com/AksharGoyal/Circle-PW-Android-Wallet/assets/38995624/d54cde62-d0e4-47dd-9360-d7d7c76e7695)

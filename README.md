@@ -11,7 +11,7 @@ Thanks to this campaign, I learnt how to:
  - Get a comprehensive overview of your wallet details and token balances 
  - Facilitate Inbound and outbound token transfers 
  - Effortlessly access your past transactions 
- - use leading programming language Kotlin for Android development
+ - Use leading programming language Kotlin for Android development
 
 To use this app, you will need Postman to work with APIs, Circle account for digital wallet creation and transactions, and Android Studio with latest Java installed. You can learn to make this by following [this tutorial](https://app.stackup.dev/campaign_page/circle-programmable-wallets).
 
